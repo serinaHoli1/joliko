@@ -1,0 +1,27 @@
+{
+  "name": "joliko",
+  "version": "1.0.0",
+  "description": "A package that demonstrates the usage of simerfop as a dependency.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serinaHoli1/joliko"
+  },
+  "keywords": [
+    "simerfop",
+    "dependency",
+    "Node.js"
+  ],
+  "author": "serinaHoli1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serinaHoli1/joliko/issues"
+  },
+  "homepage": "https://github.com/serinaHoli1/joliko",
+  "dependencies": {
+    "simerfop": "^1.0.0"
+  }
+}
